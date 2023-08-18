@@ -11,5 +11,3 @@ Meu nome é Marcelo Paludetto
 alves.santos.andrew@escola.pr.gov.br
 
 @andrewvinicius16
-
-![descrição do GIF](link GIF do Tenor)
